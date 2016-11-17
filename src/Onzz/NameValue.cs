@@ -17,7 +17,6 @@ namespace Onzz
         /// </summary>
         public NameValue()
         {
-            int a = 10;
         }
 
         /// <summary>
