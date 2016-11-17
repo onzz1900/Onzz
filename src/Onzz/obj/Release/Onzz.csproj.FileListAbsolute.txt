@@ -1,0 +1,5 @@
+D:\onzz\github\onzz\src\Onzz\bin\Release\Onzz.dll
+D:\onzz\github\onzz\src\Onzz\bin\Release\Onzz.pdb
+D:\onzz\github\onzz\src\Onzz\obj\Release\Onzz.csprojResolveAssemblyReference.cache
+D:\onzz\github\onzz\src\Onzz\obj\Release\Onzz.dll
+D:\onzz\github\onzz\src\Onzz\obj\Release\Onzz.pdb
