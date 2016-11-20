@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Abp</id>
+    <version>1.0.0.0</version>
+    <authors>Abp</authors>
+    <owners>Halil İbrahim Kalkan</owners>
+    <licenseUrl>https://github.com/aspnetboilerplate/aspnetboilerplate/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://www.aspnetboilerplate.com/</projectUrl>
+    <iconUrl>http://www.aspnetboilerplate.com/images/abp_nupkg.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Abp</description>
+    <summary>ASP.NET Boilerplate is a general-purpose, web focused application framework.</summary>
+    <tags>asp.net,asp.net mvc,boilerplate,application framework,web framework,framework,domain driven design</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2">
+        <dependency id="Castle.LoggingFacility" version="[3.3.0, )" />
+        <dependency id="Castle.Windsor" version="[3.3.0, )" />
+        <dependency id="Newtonsoft.Json" version="[9.0.1, )" />
+        <dependency id="Nito.AsyncEx" version="[3.0.1, )" />
+        <dependency id="System.Collections.Immutable" version="[1.2.0, )" />
+        <dependency id="System.Linq.Dynamic" version="[1.0.6, )" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Transactions" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.Runtime.Caching" targetFramework=".NETFramework4.5.2" />
+      <frameworkAssembly assemblyName="System.ComponentModel.DataAnnotations" targetFramework=".NETFramework4.5.2" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
