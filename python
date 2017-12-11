@@ -1,0 +1,5 @@
+打包成exe:
+1、安装pyInstaller 
+  pip install pyinstaller
+2、在命令行中切换到要打包的程序所在目录,直接输入下面的指令即可
+  pyinstaller -F xxx.py
