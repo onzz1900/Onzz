@@ -1,1 +1,5 @@
+1.with 相当于C#的using:
+data=with open("xx") as xx
 
+2.tuple：
+(name,age)="onzz",28
